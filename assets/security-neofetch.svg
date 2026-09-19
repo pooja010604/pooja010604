@@ -50,7 +50,7 @@
         font-family="monospace"
         font-size="16">
     <tspan fill="#7ee787">pooja@security-lab</tspan>
-    <tspan fill="#c9d1d9">:$ security-fetching -info</tspan>
+    <tspan fill="#c9d1d9">:$ security-fetching-info</tspan>
   </text>
 
   <!-- Vertical divider -->
