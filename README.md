@@ -14,6 +14,14 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="./assets/security-dashboard.svg"
+    alt="Pooja Gupta security operations workflow"
+    width="100%"
+  />
+</p>
+
 # Hi, I'm Pooja Gupta 👋
 
 ### Cybersecurity | SOC • VAPT • DFIR
