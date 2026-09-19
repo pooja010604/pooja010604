@@ -1,10 +1,10 @@
-# Hi, I'm Pooja Gupta 👋
+<div align="center">
 
-### Cybersecurity | SOC • VAPT • DFIR
+<img src="./assets/security-profile.svg" alt="Pooja Gupta Cybersecurity Profile" width="100%">
 
-> Cybersecurity-focused Computer Engineering student with hands-on experience in
-> Security Operations, SIEM monitoring, vulnerability assessment, threat detection,
-> incident response, network security, and digital forensics.
+</div>
+
+---
 
 **Focus:** `SOC` `SIEM` `VAPT` `DFIR` `Threat Detection` `Network Security`
 
