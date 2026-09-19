@@ -1,239 +1,151 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1000"
-     height="430"
-     viewBox="0 0 1000 430"
+     height="280"
+     viewBox="0 0 1000 280"
      role="img"
      aria-labelledby="title desc">
 
-  <title id="title">Pooja Gupta Cybersecurity Profile</title>
+<title id="title">Pooja Gupta cybersecurity terminal</title>
 
-  <desc id="desc">
-    Terminal-style cybersecurity profile showing SOC, VAPT, DFIR,
-    SIEM, network security and security tooling.
-  </desc>
+<desc id="desc">
+Animated terminal-style introduction for Pooja Gupta,
+a cybersecurity-focused Computer Engineering student
+focused on SOC, VAPT, DFIR and security operations.
+</desc>
 
-  <rect width="1000"
-        height="430"
-        rx="18"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"/>
+<rect width="1000"
+      height="280"
+      rx="14"
+      fill="#0d1117"
+      stroke="#30363d"
+      stroke-width="2"/>
 
-  <!-- Terminal title bar -->
-  <rect x="0"
-        y="0"
-        width="1000"
-        height="46"
-        rx="18"
-        fill="#161b22"/>
+<rect width="1000"
+      height="42"
+      rx="14"
+      fill="#161b22"/>
 
-  <circle cx="25" cy="23" r="6" fill="#ff6b6b"/>
-  <circle cx="47" cy="23" r="6" fill="#f2cc60"/>
-  <circle cx="69" cy="23" r="6" fill="#56d364"/>
+<rect y="28"
+      width="1000"
+      height="14"
+      fill="#161b22"/>
 
-  <text x="95"
-        y="29"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="14">
-    pooja@github: ~/security
-  </text>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="21" r="6" fill="#27c93f"/>
 
-  <!-- Terminal prompt -->
-  <text x="35"
-        y="82"
-        fill="#56d364"
-        font-family="monospace"
-        font-size="15">
-    $ whoami
-  </text>
+<text x="92"
+      y="26"
+      font-family="monospace"
+      font-size="15"
+      fill="#8b949e">
+pooja@security-lab: ~/profile
+</text>
 
-  <text x="35"
-        y="112"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="27"
-        font-weight="bold">
-    Pooja Gupta
-  </text>
+<g font-family="monospace" font-size="18">
 
-  <text x="35"
-        y="140"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="15">
-    Cybersecurity | SOC • VAPT • DFIR
-  </text>
+<!-- whoami -->
 
-  <!-- Separator -->
-  <line x1="35"
-        y1="165"
-        x2="965"
-        y2="165"
-        stroke="#30363d"
-        stroke-width="1"/>
+<text x="38" y="78" opacity="0">
+<tspan fill="#7ee787">pooja@security-lab</tspan>
+<tspan fill="#c9d1d9">:$ whoami</tspan>
 
-  <!-- Neofetch command -->
-  <text x="35"
-        y="195"
-        fill="#56d364"
-        font-family="monospace"
-        font-size="15">
-    $ neofetch --security
-  </text>
+<animate attributeName="opacity"
+         begin=".2s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <!-- Left information column -->
-  <text x="35"
-        y="230"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    ROLE
-  </text>
+<text x="38"
+      y="106"
+      fill="#c9d1d9"
+      opacity="0">
+Pooja Gupta — Cybersecurity Student
 
-  <text x="170"
-        y="230"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    Cybersecurity Student
-  </text>
+<animate attributeName="opacity"
+         begin=".8s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <text x="35"
-        y="258"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    FOCUS
-  </text>
 
-  <text x="170"
-        y="258"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    SOC • VAPT • DFIR
-  </text>
+<!-- focus -->
 
-  <text x="35"
-        y="286"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    SIEM
-  </text>
+<text x="38" y="140" opacity="0">
+<tspan fill="#7ee787">pooja@security-lab</tspan>
+<tspan fill="#c9d1d9">:$ focus</tspan>
 
-  <text x="170"
-        y="286"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    Wazuh • ELK
-  </text>
+<animate attributeName="opacity"
+         begin="1.5s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <text x="35"
-        y="314"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    NETWORK
-  </text>
+<text x="38"
+      y="168"
+      fill="#c9d1d9"
+      opacity="0">
+SOC • SIEM • VAPT • DFIR • Threat Detection
 
-  <text x="170"
-        y="314"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    Zeek • Wireshark • Nmap
-  </text>
+<animate attributeName="opacity"
+         begin="2.1s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <!-- Right information column -->
-  <text x="530"
-        y="230"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    INCIDENT RESPONSE
-  </text>
 
-  <text x="730"
-        y="230"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    TheHive • Velociraptor
-  </text>
+<!-- stack -->
 
-  <text x="530"
-        y="258"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    APPSEC
-  </text>
+<text x="38" y="202" opacity="0">
+<tspan fill="#7ee787">pooja@security-lab</tspan>
+<tspan fill="#c9d1d9">:$ stack</tspan>
 
-  <text x="730"
-        y="258"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    Burp • OWASP ZAP
-  </text>
+<animate attributeName="opacity"
+         begin="2.8s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <text x="530"
-        y="286"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    VAPT
-  </text>
+<text x="38"
+      y="230"
+      fill="#c9d1d9"
+      opacity="0">
+Wazuh • ELK • Zeek • Wireshark • Burp Suite
 
-  <text x="730"
-        y="286"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    Nessus • Metasploit
-  </text>
+<animate attributeName="opacity"
+         begin="3.4s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
+</text>
 
-  <text x="530"
-        y="314"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="14">
-    FRAMEWORKS
-  </text>
 
-  <text x="730"
-        y="314"
-        fill="#f0f6fc"
-        font-family="monospace"
-        font-size="14">
-    MITRE • NIST • OWASP
-  </text>
+<!-- final -->
 
-  <!-- Bottom prompt -->
-  <line x1="35"
-        y1="345"
-        x2="965"
-        y2="345"
-        stroke="#30363d"
-        stroke-width="1"/>
+<text x="38" y="258" opacity="0">
+<tspan fill="#7ee787">pooja@security-lab</tspan>
+<tspan fill="#c9d1d9">:$ </tspan>
+<tspan fill="#58a6ff">detect • investigate • secure</tspan>
+<tspan fill="#c9d1d9">█</tspan>
 
-  <text x="35"
-        y="378"
-        fill="#56d364"
-        font-family="monospace"
-        font-size="15">
-    $ echo "security is a practice, not a title"
-  </text>
+<animate attributeName="opacity"
+         begin="4.1s"
+         dur=".1s"
+         to="1"
+         fill="freeze"/>
 
-  <text x="35"
-        y="404"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="13">
-    B.Tech Computer Engineering (Cybersecurity) • Pune, India
-  </text>
+<animate attributeName="opacity"
+         values="1;0;1"
+         dur="1s"
+         begin="4.6s"
+         repeatCount="indefinite"/>
+</text>
+
+</g>
 
 </svg>
