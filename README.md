@@ -1,8 +1,10 @@
-<div align="center">
-
-<img src="./assets/security-profile.svg" alt="Pooja Gupta Cybersecurity Profile" width="100%">
-
-</div>
+<p align="center">
+  <img
+    src="./assets/security-profile.svg"
+    alt="Pooja Gupta cybersecurity terminal"
+    width="100%"
+  />
+</p>
 
 ---
 
