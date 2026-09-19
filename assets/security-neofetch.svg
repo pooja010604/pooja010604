@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="300"
+     viewBox="0 0 1000 300"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Pooja Gupta cybersecurity toolkit</title>
+
+  <desc id="desc">
+    Cybersecurity profile snapshot showing Pooja Gupta's
+    security operations, SIEM, VAPT, DFIR and network
+    security focus and tools.
+  </desc>
+
+  <!-- Main terminal -->
+  <rect width="1000"
+        height="300"
+        rx="14"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+  <!-- Header -->
+  <rect width="1000"
+        height="44"
+        rx="14"
+        fill="#161b22"/>
+
+  <rect y="30"
+        width="1000"
+        height="14"
+        fill="#161b22"/>
+
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="22" r="6" fill="#27c93f"/>
+
+  <text x="92"
+        y="27"
+        font-family="monospace"
+        font-size="15"
+        fill="#8b949e">
+    pooja@security-lab: ~/security-profile
+  </text>
+
+  <!-- Command -->
+  <text x="32"
+        y="76"
+        font-family="monospace"
+        font-size="16">
+    <tspan fill="#7ee787">pooja@security-lab</tspan>
+    <tspan fill="#c9d1d9">:$ security-fetching -info</tspan>
+  </text>
+
+  <!-- Vertical divider -->
+  <line x1="500"
+        y1="92"
+        x2="500"
+        y2="270"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+  <!-- LEFT -->
+  <text x="32"
+        y="108"
+        font-family="monospace"
+        font-size="14"
+        font-weight="bold"
+        fill="#58a6ff">
+    SECURITY PROFILE
+  </text>
+
+  <text x="32" y="136"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    ROLE
+  </text>
+
+  <text x="155" y="136"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    Cybersecurity Student
+  </text>
+
+  <text x="32" y="162"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    FOCUS
+  </text>
+
+  <text x="155" y="162"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    SOC • VAPT • DFIR
+  </text>
+
+  <text x="32" y="188"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    MONITORING
+  </text>
+
+  <text x="155" y="188"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    SIEM • Threat Detection
+  </text>
+
+  <text x="32" y="214"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    NETWORK
+  </text>
+
+  <text x="155" y="214"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    Zeek • Wireshark • Nmap
+  </text>
+
+  <text x="32" y="240"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    FRAMEWORKS
+  </text>
+
+  <text x="155" y="240"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    MITRE • NIST • OWASP
+  </text>
+
+  <!-- RIGHT -->
+  <text x="530"
+        y="108"
+        font-family="monospace"
+        font-size="14"
+        font-weight="bold"
+        fill="#58a6ff">
+    SECURITY TOOLKIT
+  </text>
+
+  <text x="530" y="136"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    SIEM
+  </text>
+
+  <text x="655" y="136"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    Wazuh • ELK Stack
+  </text>
+
+  <text x="530" y="162"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    INCIDENT RESPONSE
+  </text>
+
+  <text x="655" y="162"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    TheHive • Velociraptor
+  </text>
+
+  <text x="530" y="188"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    VAPT
+  </text>
+
+  <text x="655" y="188"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    Burp • Nessus • Metasploit
+  </text>
+
+  <text x="530" y="214"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    APPSEC
+  </text>
+
+  <text x="655" y="214"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    OWASP ZAP • WebGoat
+  </text>
+
+  <text x="530" y="240"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+    SYSTEMS
+  </text>
+
+  <text x="655" y="240"
+        font-family="monospace"
+        font-size="13"
+        fill="#f0f6fc">
+    Linux • Windows • AWS
+  </text>
+
+  <!-- Bottom prompt -->
+  <text x="32"
+        y="273"
+        font-family="monospace"
+        font-size="12">
+    <tspan fill="#7ee787">status</tspan>
+    <tspan fill="#8b949e">: building practical security experience</tspan>
+  </text>
+
+</svg>
