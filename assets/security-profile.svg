@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="430"
+     viewBox="0 0 1000 430"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Pooja Gupta Cybersecurity Profile</title>
+
+  <desc id="desc">
+    Terminal-style cybersecurity profile showing SOC, VAPT, DFIR,
+    SIEM, network security and security tooling.
+  </desc>
+
+  <rect width="1000"
+        height="430"
+        rx="18"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+  <!-- Terminal title bar -->
+  <rect x="0"
+        y="0"
+        width="1000"
+        height="46"
+        rx="18"
+        fill="#161b22"/>
+
+  <circle cx="25" cy="23" r="6" fill="#ff6b6b"/>
+  <circle cx="47" cy="23" r="6" fill="#f2cc60"/>
+  <circle cx="69" cy="23" r="6" fill="#56d364"/>
+
+  <text x="95"
+        y="29"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="14">
+    pooja@github: ~/security
+  </text>
+
+  <!-- Terminal prompt -->
+  <text x="35"
+        y="82"
+        fill="#56d364"
+        font-family="monospace"
+        font-size="15">
+    $ whoami
+  </text>
+
+  <text x="35"
+        y="112"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="27"
+        font-weight="bold">
+    Pooja Gupta
+  </text>
+
+  <text x="35"
+        y="140"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="15">
+    Cybersecurity | SOC • VAPT • DFIR
+  </text>
+
+  <!-- Separator -->
+  <line x1="35"
+        y1="165"
+        x2="965"
+        y2="165"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+  <!-- Neofetch command -->
+  <text x="35"
+        y="195"
+        fill="#56d364"
+        font-family="monospace"
+        font-size="15">
+    $ neofetch --security
+  </text>
+
+  <!-- Left information column -->
+  <text x="35"
+        y="230"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    ROLE
+  </text>
+
+  <text x="170"
+        y="230"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    Cybersecurity Student
+  </text>
+
+  <text x="35"
+        y="258"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    FOCUS
+  </text>
+
+  <text x="170"
+        y="258"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    SOC • VAPT • DFIR
+  </text>
+
+  <text x="35"
+        y="286"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    SIEM
+  </text>
+
+  <text x="170"
+        y="286"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    Wazuh • ELK
+  </text>
+
+  <text x="35"
+        y="314"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    NETWORK
+  </text>
+
+  <text x="170"
+        y="314"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    Zeek • Wireshark • Nmap
+  </text>
+
+  <!-- Right information column -->
+  <text x="530"
+        y="230"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    INCIDENT RESPONSE
+  </text>
+
+  <text x="730"
+        y="230"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    TheHive • Velociraptor
+  </text>
+
+  <text x="530"
+        y="258"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    APPSEC
+  </text>
+
+  <text x="730"
+        y="258"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    Burp • OWASP ZAP
+  </text>
+
+  <text x="530"
+        y="286"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    VAPT
+  </text>
+
+  <text x="730"
+        y="286"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    Nessus • Metasploit
+  </text>
+
+  <text x="530"
+        y="314"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="14">
+    FRAMEWORKS
+  </text>
+
+  <text x="730"
+        y="314"
+        fill="#f0f6fc"
+        font-family="monospace"
+        font-size="14">
+    MITRE • NIST • OWASP
+  </text>
+
+  <!-- Bottom prompt -->
+  <line x1="35"
+        y1="345"
+        x2="965"
+        y2="345"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+  <text x="35"
+        y="378"
+        fill="#56d364"
+        font-family="monospace"
+        font-size="15">
+    $ echo "security is a practice, not a title"
+  </text>
+
+  <text x="35"
+        y="404"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="13">
+    B.Tech Computer Engineering (Cybersecurity) • Pune, India
+  </text>
+
+</svg>
