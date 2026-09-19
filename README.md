@@ -6,6 +6,14 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="./assets/security-neofetch.svg"
+    alt="Pooja Gupta cybersecurity toolkit"
+    width="100%"
+  />
+</p>
+
 # Hi, I'm Pooja Gupta 👋
 
 ### Cybersecurity | SOC • VAPT • DFIR
