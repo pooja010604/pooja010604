@@ -34,19 +34,6 @@
 
 ---
 
-## 🛡️ Cybersecurity Focus
-
-- Security Operations & SOC
-- SIEM & Log Analysis
-- Vulnerability Assessment & Penetration Testing
-- Threat Detection & Analysis
-- Incident Response & DFIR
-- Network Security & Monitoring
-- Web Application Security
-- Security Frameworks & Methodologies
-
----
-
 ## 🔧 Security Tools & Technologies
 
 **SOC / SIEM**
