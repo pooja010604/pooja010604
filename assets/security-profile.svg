@@ -61,7 +61,7 @@ pooja@security-lab: ~/profile
       y="106"
       fill="#c9d1d9"
       opacity="0">
-Pooja Gupta — Cybersecurity Student
+<b>Pooja Gupta</b> — Cybersecurity Student
 
 <animate attributeName="opacity"
          begin=".8s"
